@@ -4,6 +4,8 @@ Data analysis for to World Happiness
 Data analysis and forecasting applied to World Happiness
 The **World Happiness Report** is a landmark survey of the state of global happiness from 2015 to 2023. The report has gained global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
 
+![WorldHappinessProjectOverview](https://github.com/IoanaMRusu/World-Happiness-Report/assets/144055123/477ae03e-a25c-40f7-8d7a-edef52682074)
+
 # Data
 *https://www.kaggle.com/unsdsn/world-happiness*
 
